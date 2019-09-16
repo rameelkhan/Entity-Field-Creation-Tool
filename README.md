@@ -1,6 +1,6 @@
 # Entity Field Creation Tool
 Entity Field Creation Tool is a Windows application which can be used to create entities and fields on just a click of a button!\
-For detailed use of the product, watch the video: <a href="https://www.youtube.com" target="_blank">Entity Field Creation Tool | Demonstration</a>
+<!--For detailed use of the product, watch the video: <a href="https://www.youtube.com" target="_blank">Entity Field Creation Tool | Demonstration</a>-->
 
 # Steps to use:
 1. Install the managed solution (available with the most latest [release](https://github.com/rameelkhan/Entity-Field-Creation-Tool/releases)) in your Dynamics CRM instance.
