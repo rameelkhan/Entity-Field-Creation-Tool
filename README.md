@@ -1,5 +1,5 @@
 # Entity Field Creation Tool
-Entity Field Creation Tool is a Windows application which can be used to create entities and fields on just a click of a button!\
+Entity Field Creation Tool is a Windows application which can be used to create entities and fields on just a click of a button!
 <!--For detailed use of the product, watch the video: <a href="https://www.youtube.com" target="_blank">Entity Field Creation Tool | Demonstration</a>-->
 
 # Steps to use:
