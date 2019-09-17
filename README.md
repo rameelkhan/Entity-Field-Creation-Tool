@@ -16,5 +16,11 @@ Entity Field Creation Tool is a Windows application which can be used to create 
 # Functionalities not supported:
 * Fields of type “Image” cannot be created.
 * You can only create Simple fields (No Calculated/Rollup fields).
-* Global Option Set can not be used for creating fields of “Option Set” type. *(Planned for next Release)*
+* Global Option Set can not be used for creating fields of “Option Set” type. *(**Planned for next Release**)*
 * User need to take care of the field limit in MS CRM for different types of field, especially for fields of type *"Lookup"*, *"Option Set"*.
+
+### Known Issues:
+* App screen is freezed while logging in and creating entity-fields, and continues to be in the same state till the respective process is completed. *(**will be resolved in upcoming releases**)*
+
+### Contact:
+* For any bug or new feature, please raise an [issue](https://github.com/rameelkhan/Entity-Field-Creation-Tool/issues) against this repository.
